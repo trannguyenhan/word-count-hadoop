@@ -1,5 +1,6 @@
 # Word-count problem with Hadoop MapReduce
-See the Hadoop tutorial and original problem here : [Hadoop tutorial](https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html)
+See the Hadoop tutorial and original problem here : [Hadoop tutorial](https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html) <br />
+Follow the following posts if you have not run the project on Hadoop yet : [https://viblo.asia/p/chay-mot-file-jar-tren-hadoop-ByEZkaX25Q0](https://viblo.asia/p/chay-mot-file-jar-tren-hadoop-ByEZkaX25Q0)
 
 ---
 ### INPUT
